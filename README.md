@@ -54,17 +54,17 @@ User → Amazon S3 (Static Images)
 ---
 
 # 📂 Repository Structure
-quickloan/
+quickloan/ |
 │
-├── public/ # Frontend files
-├── includes/ # Backend logic
-├── nginx/
-│ └── quickloan.conf
-├── database/
-│ └── init.sql
-├── infrastructure/
-│ └── vpc-ec2.yml
-└── README.md
+├── public/ # Frontend files |
+├── includes/ # Backend logic |
+├── nginx/ |
+│ └── quickloan.conf |
+├── database/ |
+│ └── init.sql |
+├── infrastructure/ |
+│ └── vpc-ec2.yml |
+└── README.md |
 
 ---
 
