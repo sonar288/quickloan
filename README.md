@@ -82,4 +82,4 @@ quickloan/ |
 ![Submission Success](img/submit_php.png)
 
 ## 🔹 Data Stored in RDS
-![Database Output](img/database_store (1).png)
+![Database Output](img/database_store.png)
