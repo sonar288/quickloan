@@ -73,10 +73,13 @@ quickloan/ |
 # 🖥️ Demo Screenshots
 
 ## 🔹 Application Home Page
-![Home Page](img/form_html_out.png)
+![Home Page](img/Home_Page.png)
 
-## 🔹 Form Submission Success
-![Submission Success](img/submit_php_out.png)
+## 🔹 Form 
+![Form](img/form_html_out.png)
+
+## 🔹form submition Success
+![Submission Success](img/submit_php.png)
 
 ## 🔹 Data Stored in RDS
-![Database Output](img/database_store.png)
+![Database Output](img/database_store (1).png)
